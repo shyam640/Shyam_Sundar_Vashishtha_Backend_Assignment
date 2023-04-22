@@ -1,0 +1,185 @@
+[
+  {
+    "asset_class": "Equity",
+    "counterparty": "Goldman Sachs",
+    "instrument_id": "AAPL",
+    "instrument_name": "Apple Inc.",
+    "trade_date_time": "2022-10-02T15:30:00Z",
+    "trade_details": {
+      "buySellIndicator": "BUY",
+      "price": 125.5,
+      "quantity": 100
+    },
+    "trade_id": "TRADE123456",
+    "trader": "John Doe"
+  },
+  {
+    "asset_class": "FX",
+    "counterparty": "HSBC",
+    "instrument_id": "EURUSD",
+    "instrument_name": "Euro/US Dollar",
+    "trade_date_time": "2023-03-15T12:45:00Z",
+    "trade_details": {
+      "buySellIndicator": "SELL",
+      "price": 1.2025,
+      "quantity": 50000
+    },
+    "trade_id": "TRADE654321",
+    "trader": "Jane Smith"
+  },
+
+  {
+    "asset_class": "Bond",
+    "counterparty": null,
+    "instrument_id": "US10Y",
+    "instrument_name": "US 10-Year Treasury Note",
+    "trade_date_time": "2023-04-19T09:15:00Z",
+    "trade_details": {
+      "buySellIndicator": "BUY",
+      "price": 132.75,
+      "quantity": 10
+    },
+    "trade_id": "TRADE789012",
+    "trader": "Bob Johnson"
+  },
+
+  {
+    "asset_class": "Equity",
+    "counterparty": "Morgan Stanley",
+    "instrument_id": "GOOGL",
+    "instrument_name": "Alphabet Inc.",
+    "trade_date_time": "2023-02-01T16:20:00Z",
+    "trade_details": {
+      "buySellIndicator": "SELL",
+      "price": 2087.5,
+      "quantity": 50
+    },
+    "trade_id": null,
+    "trader": "David Lee"
+  },
+  {
+    "asset_class": "FX",
+    "counterparty": "JP Morgan",
+    "instrument_id": "USDJPY",
+    "instrument_name": "US Dollar/Japanese Yen",
+    "trade_date_time": "2023-01-05T14:30:00Z",
+    "trade_details": {
+      "buySellIndicator": "BUY",
+      "price": 110.25,
+      "quantity": 100000
+    },
+    "trade_id": "TRADE246810",
+    "trader": "Sarah Brown"
+  },
+
+  {
+    "asset_class": "Commodity",
+    "counterparty": "Goldman Sachs",
+    "instrument_id": "XAU",
+    "instrument_name": "Gold",
+    "trade_date_time": "2023-03-20T10:00:00Z",
+    "trade_details": {
+      "buySellIndicator": "SELL",
+      "price": 1750.25,
+      "quantity": 10
+    },
+    "trade_id": "TRADE111222",
+    "trader": "James Davis"
+  },
+
+  {
+    "asset_class": "Equity",
+    "counterparty": null,
+    "instrument_id": "AMZN",
+    "instrument_name": "Amazon.com, Inc.",
+    "trade_date_time": "2023-04-01T11:45:00Z",
+    "trade_details": {
+      "buySellIndicator": "BUY",
+      "price": 3300.5,
+      "quantity": 20
+    },
+    "trade_id": null,
+    "trader": "Emily Johnson"
+  },
+  {
+    "asset_class": "Equity",
+    "counterparty": "Citibank",
+    "instrument_id": "AAPL",
+    "instrument_name": "Apple Inc.",
+    "trade_date_time": "2023-02-10T16:15:00Z",
+    "trade_details": {
+      "buySellIndicator": "BUY",
+      "price": 150.5,
+      "quantity": 200
+    },
+    "trade_id": "TRADE4717",
+    "trader": "John Smith"
+  },
+
+  {
+    "asset_class": "Bond",
+    "counterparty": "Morgan Stanley",
+    "instrument_id": "TREASURY-BOND-2.25%",
+    "instrument_name": "US Treasury Bond 2.25%",
+    "trade_date_time": "2023-04-19T13:45:00Z",
+    "trade_details": {
+      "buySellIndicator": "SELL",
+      "price": 99.75,
+      "quantity": 500
+    },
+    "trade_id": "TRADE8142",
+    "trader": "Michelle Lee"
+  },
+
+  {
+    "asset_class": "FX",
+    "counterparty": "Barclays",
+    "instrument_id": "EURUSD",
+    "instrument_name": "Euro/US Dollar",
+    "trade_date_time": "2023-03-28T09:30:00Z",
+    "trade_details": {
+      "buySellIndicator": "SELL",
+      "price": 1.12,
+      "quantity": 100000
+    },
+    "trade_id": "TRADE2453",
+    "trader": "David Wilson"
+  },
+  {
+    "asset_class": "Equity",
+    "instrument_id": "AMZN",
+    "instrument_name": "Amazon.com, Inc.",
+    "trade_date_time": "2023-04-10T11:30:00Z",
+    "trade_details": {
+      "buySellIndicator": "BUY",
+      "price": 1987.25,
+      "quantity": 50
+    },
+    "trader": "Amy Chen"
+  },
+
+  {
+    "asset_class": "FX",
+    "instrument_id": "GBPUSD",
+    "instrument_name": "Great British Pound/US Dollar",
+    "trade_date_time": "2023-03-15T14:20:00Z",
+    "trade_details": {
+      "buySellIndicator": "SELL",
+      "price": 1.35,
+      "quantity": 50000
+    },
+    "trader": "Peter Kim"
+  },
+  {
+    "asset_class": "Bond",
+    "instrument_id": "GOV-10Y",
+    "instrument_name": "US Government 10 Year Bond",
+    "trade_date_time": "2023-02-01T09:00:00Z",
+    "trade_details": {
+      "buySellIndicator": "SELL",
+      "price": 98.5,
+      "quantity": 1000
+    },
+    "trader": "Sarah Lee"
+  }
+]
